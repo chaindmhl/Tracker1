@@ -1,0 +1,11 @@
+opencv-python
+lxml
+tqdm
+tensorflow==2.5.0
+absl-py
+easydict
+matplotlib
+Pillow
+yolov4
+scipy
+urllib3==1.26.15
